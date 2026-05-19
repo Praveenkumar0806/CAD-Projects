@@ -32,3 +32,29 @@ PHASE - 2:(Coming soon)
 - MySQL database integration
 
 by-Praveen.
+
+2. Work Management System
+
+A console-based Work Management System built with Java.
+Managers can assign tasks and track team progress. Employees can view and update their tasks.
+
+Tech Stack
+
+Java
+SQL
+
+Features:
+
+Manager
+
+Create employee accounts
+View all employees
+Assign tasks to team members
+View team task status
+Generate employee reports
+
+Employee
+
+View my tasks (Open / InProgress / Completed)
+Update task status
+View notifications
